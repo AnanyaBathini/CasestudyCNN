@@ -10,7 +10,8 @@ Convolutional neural network or CNN in short is a class of deep neural network t
 4.Classification(Fully connected layer/dense layer)
 >The first three components come under the extraction and learning of features of an image
 CNN ARCHITECTURE:
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Feditor.analyticsvidhya.com%2Fuploads%2F90650dnn2.jpeg&tbnid=LJE62p6XfyT2-M&vet=12ahUKEwjP8NCK_JiBAxVZq2MGHdIHAeYQMygAegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2020%2F10%2Fwhat-is-the-convolutional-neural-network-architecture%2F&docid=rOrj5qxKPbPf9M&w=1644&h=880&q=convolutional%20neural%20network%20architecture&ved=2ahUKEwjP8NCK_JiBAxVZq2MGHdIHAeYQMygAegQIARBy)
+![image](https://github.com/AnanyaBathini/CasestudyCNN/assets/143894181/cb83ab6e-5b75-4174-898e-add541fc346b)
+
 CONVOLUTIONAL LAYER:
 >that performs convolution
 >Types:CONV1D,CON2D
@@ -40,5 +41,6 @@ FULLY CONNECTED LAYER:
 >Responsible for learning and modeling complex relationships in the data
 >Relu and Softmax are commonly used activation functions in a FC layer
 >We use ANN in FC layer
-![image](
->https://www.google.com/url?sa=i&url=https%3A%2F%2Fpyimagesearch.com%2F2021%2F05%2F14%2Fconvolutional-neural-networks-cnns-and-layer-types%2F&psig=AOvVaw0NdTYY3lW-wOEDP4pM8DS3&ust=1694192276928000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCF-5j8mIEDFQAAAAAdAAAAABAE)
+
+![image](https://github.com/AnanyaBathini/CasestudyCNN/assets/143894181/5ba7102b-5e57-48bb-b04c-8976e407a283)
+
